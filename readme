@@ -105,5 +105,11 @@ MiniCoreVendedores/
 - Puedes modificar las reglas de comisión editando el archivo `data.sql` y recargando la base de datos.
 - Los estilos pueden personalizarse en `static/css/style.css`.
 
+#URLS
+RENDER: https://minicore-y0u1.onrender.com
+GIT: https://github.com/Santty111/minicore.git
+README: https://github.com/Santty111/minicore/blob/main/readme
+YOUTUBE: https://youtu.be/pfMf0gobSi0
+
 
 ---
